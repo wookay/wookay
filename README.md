@@ -1,4 +1,7 @@
-```
+```julia-repl
+julia> using Calendars
+
+julia> VerticalCalendar()'
      Su Mo Tu We Th Fr Sa
 Sep         1  2  3  4  5
 2020  6  7  8  9 10 11 12
