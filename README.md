@@ -1,9 +1,1 @@
-```julia-repl
-julia> ⼆()=0; ㅂ()=0; ㅇ()=0; H()=0; ㅗ()=0; ㄱ()=0;
-
-julia> [⼆ ' ' ㅂ; ㅇ H ㅗ; ' '  ㅇ ㄱ]
-3×3 Matrix{Any}:
- ⼆    ' '  ㅂ
- ㅇ    H    ㅗ
- ' '  ㅇ    ㄱ
-```
+[![그림자 정부](https://img.youtube.com/vi/21weKdSWeB4/1.jpg)](https://www.youtube.com/watch?v=21weKdSWeB4 "그림자 정부")
